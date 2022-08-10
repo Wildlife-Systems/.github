@@ -2,6 +2,10 @@
 
 Originally developed as part of the Leverhulme Trust funded Automated Acoustic Observatories project at the Univerity of York, now developed as part fo the Urban Nature Project at the Natural History Museum. Tools for using Raspberry Pi sensor networks for monitoring biodiversity.
 
+### Repo prefixes
+`sound-device-` Repos related to sound capture/playback devices
+`sensor-` Repos related to other sensors
+
 <!--
 
 **Here are some ideas to get you started:**
